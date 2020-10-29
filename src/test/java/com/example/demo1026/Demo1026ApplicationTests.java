@@ -16,7 +16,7 @@ class Demo1026ApplicationTests {
 
 		System.out.println("-------------------Period Part1----------------------------");
 
-		LocalDate startDate = LocalDate.of(1988,5,8);
+		LocalDate startDate = LocalDate.of(1988,6,8);
 		LocalDate endDate = LocalDate.now();
 
 		//计算日期的差值
