@@ -1,0 +1,14 @@
+
+person:
+  name: liuwei
+  age: 22
+
+
+#server
+server:
+  port: 8009
+  servlet:
+    context-path: /
+
+
+
