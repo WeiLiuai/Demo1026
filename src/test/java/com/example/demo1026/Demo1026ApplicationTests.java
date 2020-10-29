@@ -32,7 +32,7 @@ class Demo1026ApplicationTests {
 
 		System.out.println("-------------------Period Part2----------------------------");
 
-		Period fromUnits = Period.of(88,9,9);
+		Period fromUnits = Period.of(88,9,19);
 		Period fromDays = Period.ofDays(788);
 		Period fromWeeks = Period.ofWeeks(88);
 		Period fromMonths = Period.ofMonths(77);
