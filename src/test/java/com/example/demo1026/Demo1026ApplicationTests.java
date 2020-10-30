@@ -86,4 +86,11 @@ class Demo1026ApplicationTests {
 
 	}
 
+	//这是分支合并测试方法
+	@Test
+	public void merge(){
+		System.out.println("这是分支合并测试方法");
+
+	}
+
 }
